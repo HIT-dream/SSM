@@ -75,4 +75,4 @@ This is a collection of resources related with states space model.
 ## Code
 1. [S4](https://github.com/state-spaces/s4?tab=readme-ov-file)
 1. [S5](https://github.com/lindermanlab/S5)
-1. [Mamber](https://github.com/state-spaces/mamba)
+1. [Mamba](https://github.com/state-spaces/mamba)
