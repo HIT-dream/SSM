@@ -59,18 +59,24 @@ This is a collection of resources related with states space model.
     
 
 ## Application
+
 <a name="Audio" />
+
 ### Audio Waveform Generation
 1. **It's Raw! Audio Generation with State-Space Models.** *Karan Goel, Albert Gu, Chris Donahue, Christopher R'e.* 2022 [paper] (https://arxiv.org/pdf/2202.09729.pdf)
 
 
 <a name="CV" />
+
 ### Multi-dimensional Signals for Computer Vision
+
 1. **S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces.** *Eric Nguyen, Karan Goel, Albert Gu, Gordon Downs, Preey Shah, Tri Dao, Stephen Baccus, Christopher Ré.* 2023 [paper] (https://openreview.net/pdf?id=5WuQNQwy56M)
 
 
 <a name='TS' />
+
 ### Time Series Modeling
+
 1. **Effectively Modeling Time Series with Simple Discrete State Spaces.** *Michael Zhang, Khaled Kamal Saab, Michael Poli, Tri Dao, Karan Goel, Christopher Ré.* 2023 [paper] (https://arxiv.org/pdf/2303.09489.pdf)
 
 
